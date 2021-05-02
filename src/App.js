@@ -6,7 +6,6 @@ import About from './pages/About';
 import Homepage from './pages/Homepage';
 import Portfolio from './pages/Portfolio';
 
-
 function App() {
   return (
     <div>
