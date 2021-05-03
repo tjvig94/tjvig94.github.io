@@ -17,6 +17,8 @@ const aboutMe = [
     }
 ]
 
+export default aboutMe;
+
 const portfolio = [
     {
         first: true,
@@ -45,4 +47,4 @@ const portfolio = [
     }
 ]
 
-export { aboutMe, portfolio };
+export { aboutMe, portfolio }
