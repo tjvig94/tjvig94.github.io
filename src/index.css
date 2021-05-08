@@ -3,9 +3,13 @@ body {
     background-color: #8ac4d0;
 }
 
-a, a:hover, a:focus, a:active {
+a {
+    color: white;
+}
+
+a:hover, a:focus, a:active {
     text-decoration: none;
-    color: inherit;
+    color: gray;
 }
 
 h1, h2, h3, p, a, li {    
@@ -40,6 +44,12 @@ img.headshot {
 
 img.app-img {
     width:100%;
+}
+
+img.trait-img {
+    height:300px;
+    border-radius:100%;
+    margin: auto;
 }
 
 li.nav-link:hover {

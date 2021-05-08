@@ -1,19 +1,28 @@
 const aboutMe = [
     {
+        first: true,
         title: "A Growing Web Developer",
-        desc: "I am a quick and eager learner who continually strives to improve my craft of developing responsive and attractive web pages. Currently enrolled in the University of New Hampshire's Full-Stack Web Development Bootcamp. Skills in HTML5, CSS3, ES6, Nodejs, Express, SQL, NoSQL, and React."
+        desc: "I am a quick and eager learner who continually strives to improve my craft of developing responsive and attractive web pages. Currently enrolled in the University of New Hampshire's Full-Stack Web Development Bootcamp. Skills in JavaScript, Node.js, Express, React, MongoDB, MySQL, PostgreSQL, HTML, and CSS.",
+        image: "images/headshot2.png",
+        alt: "Tim Vigneau"
     },
     {
         title: "Educator",
-        desc: "Licensed teacher in the state of New Hampshire holding a Bachelor of Music in Music Education. Recipient of the New Hampshire Band Directors' Association's 'Outstanding Young Band Director' Award, 2020. I lead students through collaboration."
+        desc: "Licensed teacher in the state of New Hampshire holding a Bachelor of Music in Music Education. Recipient of the New Hampshire Band Directors' Association's 'Outstanding Young Band Director' Award, 2020. I lead students through collaboration.",
+        image: "images/teaching.png",
+        alt: "Tim Teaching Band"
     },
     {
         title: "Musician",
-        "desc": "Classically trained trombonist and conductor, having performed with numerous big bands and wind ensembles. I've conducted groups at various levels from very beginning to advanced, and musical styles from jazz, to rock, to classical."
+        desc: "Classically trained trombonist and conductor, having performed with numerous big bands and wind ensembles. I've conducted groups at various levels from very beginning to advanced, and musical styles from jazz, to rock, to classical.",
+        image: "images/musician.jpg",
+        alt: "Tim Playing Trombone"
     },
     {
         title: "Table-Top Game Enthusiast",
-        desc: "I love strategy and cooperative games - and I especially love finding and learning new games that I have not played before. I am fascinated by the creativity of board game developers and by the process of learning how to master their games."
+        desc: "I love strategy and cooperative games - and I especially love finding and learning new games that I have not played before. I am fascinated by the creativity of board game developers and by the process of learning how to master their games.",
+        image: "images/boardgames.jpg",
+        alt: "Tim and His Board Games"
     }
 ]
 
