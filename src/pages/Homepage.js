@@ -33,7 +33,7 @@ function Homepage() {
                             <a href="mailto:tjvig94@gmail.com"><button type="button" class="btn btn-outline-secondary"><h4>Email Me</h4></button></a>
                         </div>
                         <div class="col text-center">
-                            <a href="https://github.com/tjvig94/portfolio" target="_blank" rel="noreferrer"><button type="button" class="btn btn-outline-secondary"><h4>Check out the Code for This Page</h4></button></a>
+                            <a href="https://github.com/tjvig94/tjvig94.github.io" target="_blank" rel="noreferrer"><button type="button" class="btn btn-outline-secondary"><h4>Check out the Code for This Page</h4></button></a>
                         </div>            
                     </div>
                 </div>
