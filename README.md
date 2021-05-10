@@ -1,6 +1,6 @@
 # Tim Vigneau - Portfolio
 
-This is an application to showcase some of the work that I've done, along with some personal information about me. This is a Node application hosted on Heroku, using Handlebars as the view engine.
+This is an application to showcase some of the work that I've done, along with some personal information about me. This is application was created using React.
 
 ## About Me
 
