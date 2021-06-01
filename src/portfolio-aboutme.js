@@ -53,7 +53,23 @@ const portfolio = [
         alt: "Weather Dashboard homepage",
         deployment: "https://tjvig94.github.io/weather-dashboard/",
         repo: "https://github.com/tjvig94/weather-dashboard"
-    }
+    },
+    {
+        title: "Password Generator",
+        desc: "This is a basic password generator that allows a user to select what character types they would like to have in their password, how many characters they would like to have, and then allow them to copy it to their clipboard. Users must select at least one character type, otherwise they will receive an error message. The slider has a range from 8 - 128. The number of characters must be selected using the slider.",
+        image: "images/password-generator.png",
+        alt: "Password Generator",
+        deployment: "https://tjvig94.github.io/password-generator/",
+        repo: "https://github.com/tjvig94/weather-dashboard"
+    },
+    {
+        title: "Coding Quiz",
+        desc: "Basic quiz asking a few questions about programming - for beginners! Users' scores are based on the remaining time when the quiz is done. Wrong answers deduct 15 seconds. Users can save their scores and view them later.",
+        image: "images/coding-quiz.png",
+        alt: "Coding Quiz",
+        deployment: "https://tjvig94.github.io/coding-quiz/",
+        repo: "https: //github.com/coding-quiz"
+    }  
 ]
 
 export { aboutMe, portfolio }
