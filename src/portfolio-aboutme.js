@@ -31,6 +31,15 @@ export default aboutMe;
 const portfolio = [
     {
         first: true,
+        title: "DevSets",
+        desc: "DevSets allows users to showcase their workspaces, post pictures and details of your workspace! Not using your set up for work? Showcase your PC gaming builds, specs and/or useful tips that helped you perfect your perfect setup.",
+        image: "images/dev-sets.png",
+        alt: "DevSets",
+        deployment: "https://devsets-d95a1.web.app/",
+        repo: "https://github.com/tjvig94/dev-sets"
+    },
+    {
+        
         title: "D&D Character Creator Express",
         desc: "Have you ever needed to make a Dungeons and Dragons character on the fly? Well look no further! Making a new character to play with can take quite a bit of time and who has time to waste when you just want to play. This app allows users to easily create new characters fast with generated stats that would meet all the criteria needed to start or jump into a campaign!",
         image: "images/dnd.png",
@@ -41,7 +50,7 @@ const portfolio = [
     {
         title: "Surprise Me-Al",
         desc: "Surprise Me-al is a mobile-ready application that provides a user with a random meal from a particular region in the world depending on what region the user chooses. Ingredients and directions are listed out on the results page. The user is also provided with a random beverage to go along with their meal. Users can also save their favorite recipes so that they can quickly access those recipes later from the homepage.",
-        image: "images/suprise-me-al.png",
+        image: "images/surprise-me-al.png",
         alt: "Surprise Me-Al homepage",
         deployment: "https://tjvig94.github.io/random-meal-generator/",
         repo: "https://github.com/tjvig94/random-meal-generator"
@@ -61,15 +70,7 @@ const portfolio = [
         alt: "Password Generator",
         deployment: "https://tjvig94.github.io/password-generator/",
         repo: "https://github.com/tjvig94/weather-dashboard"
-    },
-    {
-        title: "Coding Quiz",
-        desc: "Basic quiz asking a few questions about programming - for beginners! Users' scores are based on the remaining time when the quiz is done. Wrong answers deduct 15 seconds. Users can save their scores and view them later.",
-        image: "images/coding-quiz.png",
-        alt: "Coding Quiz",
-        deployment: "https://tjvig94.github.io/coding-quiz/",
-        repo: "https: //github.com/coding-quiz"
-    }  
+    }
 ]
 
 export { aboutMe, portfolio }
