@@ -23,7 +23,7 @@ function Homepage() {
                             </a>
                         </div>
                         <div class="col-4">
-                            <a href="images/Tim_Vigneau_Resume.pdf" download="Tim Vigneau Resume">
+                            <a href="images/Tim-Vigneau-Resume.pdf" download="Tim Vigneau Resume">
                                 <img src="images/file.png" alt="resume" class="social-icon"></img>
                             </a> 
                         </div>
